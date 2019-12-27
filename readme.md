@@ -10,7 +10,7 @@ In the first phase, you define tags that will be mapped to the keys 1-9 on your 
 
 ### Phase 2 : Tagging photo's
 
-During the tagging phase, you will see the photo's full screen. You can go to the next photo with the <kbd>&rarr;</kbd> and go to the previous photo with <kbd>&larr;</kdb>. You can tag a photo with keys <kbd>1</kbd>, <kbd>2</kbd>, &dots; <kbd>9</kbd>. Press one of those keys will toggle the tag: if the photo currently holds the tag, it is removed, and if it does not hold the tag, it is added. Note that a photo is allowed to have any number of tags, zero, one or more. With the <kbd>Esc</kdb> key you can stop tagging the photo's and this will take you to phase 3. Every action will be committed to a file `state.json` that is saved in the folder containing the pictures. This includes  so in principle, work will not be lost during this process.
+During the tagging phase, you will see the photo's full screen. You can go to the next photo with the <kbd>&rarr;</kbd> and go to the previous photo with <kbd>&larr;</kbd>. You can tag a photo with keys <kbd>1</kbd>, <kbd>2</kbd>, &dots; <kbd>9</kbd>. Press one of those keys will toggle the tag: if the photo currently holds the tag, it is removed, and if it does not hold the tag, it is added. Note that a photo is allowed to have any number of tags, zero, one or more. With the <kbd>Esc</kbd> key you can stop tagging the photo's and this will take you to phase 3. Every action will be committed to a file `state.json` that is saved in the folder containing the pictures. This includes  so in principle, work will not be lost during this process.
 
 ### Phase 3 : Copying photo's
 
